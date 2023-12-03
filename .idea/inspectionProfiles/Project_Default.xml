@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="cdp-core-pyspark-migration-tool" />
+            <item index="1" class="java.lang.String" itemvalue="cdp-core-pyspark-configuration" />
+            <item index="2" class="java.lang.String" itemvalue="apache-atlas" />
+            <item index="3" class="java.lang.String" itemvalue="pytest" />
+            <item index="4" class="java.lang.String" itemvalue="pyspark-stubs" />
+            <item index="5" class="java.lang.String" itemvalue="pyspark" />
+            <item index="6" class="java.lang.String" itemvalue="pyspark-check" />
+            <item index="7" class="java.lang.String" itemvalue="flake8" />
+            <item index="8" class="java.lang.String" itemvalue="cdp_core_pyspark_atlas_connector" />
+            <item index="9" class="java.lang.String" itemvalue="cdp-core-pyspark-actual-date" />
+            <item index="10" class="java.lang.String" itemvalue="boto3" />
+            <item index="11" class="java.lang.String" itemvalue="pytest-cov" />
+            <item index="12" class="java.lang.String" itemvalue="pytest-mock" />
+            <item index="13" class="java.lang.String" itemvalue="cdp-core-pyspark-data-quality" />
+            <item index="14" class="java.lang.String" itemvalue="cdp-core-pyspark-jobs-orchestrator" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random.random.choices" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
